@@ -1,0 +1,1 @@
+self.signal = pyqtSignal(object)  # For cross-thread updates

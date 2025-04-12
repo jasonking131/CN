@@ -1,0 +1,3 @@
+async def scrape(self):
+    await asyncio.sleep(random.uniform(1.5, 3.0))  # Anti-ban
+    # Existing code...
