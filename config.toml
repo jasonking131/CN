@@ -1,0 +1,4 @@
+[telegram]
+api_id = "29843885"       # From [my.telegram.org](https://my.telegram.org/)
+api_hash = "75425a836461d8c147e8005ab8fd1b60"   # Keep this secure!
+phone = "+447477205132"         # Your Telegram number

@@ -6,4 +6,4 @@ python-Levenshtein==0.12.2
 matplotlib==3.7.1
 pandas==2.0.2
 loguru==0.7.0
-spacy==3.5.3
+spacy==3.5.3 --no-binary blis,preshed
