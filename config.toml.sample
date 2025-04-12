@@ -1,6 +1,12 @@
+# config.toml.sample
 [telegram]
-api_id = "YOUR_API_ID_HERE"
-api_hash = "YOUR_API_HASH_HERE"
+api_id = "29843885"
+api_hash = "75425a836461d8c147e8005ab8fd1b60"
+
 
 [routing]
 default_category = "uncategorized"
+confidence_threshold = 0.7
+
+[safety]
+messages_per_hour = 100
